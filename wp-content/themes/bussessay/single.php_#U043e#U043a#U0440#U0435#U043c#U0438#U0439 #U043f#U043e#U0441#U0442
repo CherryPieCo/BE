@@ -1,0 +1,9 @@
+<?php get_header(); ?>
+---------------------------------
+<br>
+
+single
+
+<?//php get_sidebar(); ?>
+
+<?php get_footer(); ?>

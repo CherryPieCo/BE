@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /why-choose-us
+Disallow: /when-asking-edu-master-com-writers-to-write-my-essay-you-are-guaranteed
+Disallow: /watch-quick-tour
+Disallow: /user-reviews
+Disallow: /topic-suggestion
+Disallow: /testimonials-2
+Disallow: /order
+Disallow: /contact
+Disallow: /current-activity
